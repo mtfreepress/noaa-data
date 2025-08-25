@@ -1,0 +1,2 @@
+station,datetime,lon,lat,elev,precip
+station,valid,lon,lat,elevation,p01m

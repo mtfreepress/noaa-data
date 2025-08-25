@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5422,
+          45.8069
+        ]
+      },
+      "properties": {
+        "site": "BIL",
+        "location": "45.8069 -108.5422",
+        "date": "06-20-2010",
+        "hourRange": "16:00-17:00",
+        "length": 2,
+        "mm": 56.89,
+        "in": 2.24,
+        "start_utc": "2010-06-20T22:00:00",
+        "end_utc": "2010-06-20T23:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1926,
+          47.7069
+        ]
+      },
+      "properties": {
+        "site": "SDY",
+        "location": "47.7069 -104.1926",
+        "date": "06-30-2009",
+        "hourRange": "16:00-17:00",
+        "length": 2,
+        "mm": 49.27,
+        "in": 1.94,
+        "start_utc": "2009-06-30T22:00:00",
+        "end_utc": "2009-06-30T23:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5751,
+          48.0945
+        ]
+      },
+      "properties": {
+        "site": "OLF",
+        "location": "48.0945 -105.5751",
+        "date": "06-24-2016",
+        "hourRange": "19:00-20:00",
+        "length": 2,
+        "mm": 37.84,
+        "in": 1.49,
+        "start_utc": "2016-06-25T01:00:00",
+        "end_utc": "2016-06-25T02:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6214,
+          48.2138
+        ]
+      },
+      "properties": {
+        "site": "GGW",
+        "location": "48.2138 -106.6214",
+        "date": "07-22-2011",
+        "hourRange": "14:00-15:00",
+        "length": 2,
+        "mm": 35.3,
+        "in": 1.39,
+        "start_utc": "2011-07-22T20:00:00",
+        "end_utc": "2011-07-22T21:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6604,
+          45.7444
+        ]
+      },
+      "properties": {
+        "site": "00U",
+        "location": "45.7444 -107.6604",
+        "date": "07-23-2025",
+        "hourRange": "06:00-06:00",
+        "length": 1,
+        "mm": 33.53,
+        "in": 1.32,
+        "start_utc": "2025-07-23T12:00:00",
+        "end_utc": "2025-07-23T12:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5422,
+          45.8069
+        ]
+      },
+      "properties": {
+        "site": "BIL",
+        "location": "45.8069 -108.5422",
+        "date": "09-07-2013",
+        "hourRange": "21:00-21:00",
+        "length": 1,
+        "mm": 33.27,
+        "in": 1.31,
+        "start_utc": "2013-09-08T03:00:00",
+        "end_utc": "2013-09-08T03:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6214,
+          48.2138
+        ]
+      },
+      "properties": {
+        "site": "GGW",
+        "location": "48.2138 -106.6214",
+        "date": "09-07-2013",
+        "hourRange": "07:00-08:00",
+        "length": 2,
+        "mm": 33.27,
+        "in": 1.31,
+        "start_utc": "2013-09-07T13:00:00",
+        "end_utc": "2013-09-07T14:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6214,
+          48.2138
+        ]
+      },
+      "properties": {
+        "site": "GGW",
+        "location": "48.2138 -106.6214",
+        "date": "06-11-2016",
+        "hourRange": "21:00-22:00",
+        "length": 2,
+        "mm": 33.27,
+        "in": 1.31,
+        "start_utc": "2016-06-12T03:00:00",
+        "end_utc": "2016-06-12T04:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5751,
+          48.0945
+        ]
+      },
+      "properties": {
+        "site": "OLF",
+        "location": "48.0945 -105.5751",
+        "date": "06-09-2012",
+        "hourRange": "01:00-02:00",
+        "length": 2,
+        "mm": 31.75,
+        "in": 1.25,
+        "start_utc": "2012-06-09T07:00:00",
+        "end_utc": "2012-06-09T08:00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6214,
+          48.2138
+        ]
+      },
+      "properties": {
+        "site": "GGW",
+        "location": "48.2138 -106.6214",
+        "date": "06-16-2007",
+        "hourRange": "18:00-19:00",
+        "length": 2,
+        "mm": 31.49,
+        "in": 1.24,
+        "start_utc": "2007-06-17T00:00:00",
+        "end_utc": "2007-06-17T01:00:00"
+      }
+    }
+  ]
+}
